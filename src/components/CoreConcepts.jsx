@@ -1,4 +1,5 @@
 function CoreConcepts(props){
+   
     return(
     <li>
       <img src={props.image} alt="..."/>
